@@ -1,0 +1,28 @@
+{
+    "albuns": [
+        {
+            "id": 1,
+            "nome": "emails i can't send",
+            "artista": "Sabrina Carpenter",
+            "img": "https://pbs.twimg.com/media/Fq0m-iMWwAEs5X2.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "thank u, next",
+            "artista": "Ariana Grande",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/6/64/Capa_de_Thank_U%2C_Next.png"
+        },
+        {
+            "id": 3,
+            "nome": "part one",
+            "artista": "chase atlantic",
+            "img": "https://cdns-images.dzcdn.net/images/cover/e3d5dc42ab722f60068fac81a4abbb56/500x500.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "starboy",
+            "artista": "the weeknd",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+        }
+    ]
+}
