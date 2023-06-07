@@ -13,9 +13,9 @@ export class HomeComponent implements OnInit {
 
   constructor(private disco1: ServicoService){}
   ngOnInit(): void {
-    this.disco2()
+    this.listarDisco()
   }
-  disco2(){
+  listarDisco(){
     this.disco1.discoSong().subscribe(disco4 => {
       this.disco = disco4
     }, err => {

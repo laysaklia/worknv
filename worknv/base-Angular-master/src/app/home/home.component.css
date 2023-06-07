@@ -1,11 +1,13 @@
 td{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
+    text-align: center;
     padding-right: 100px;
 }
 th{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
+    text-align: justify;
     padding-right: 40px;
 }
 img{

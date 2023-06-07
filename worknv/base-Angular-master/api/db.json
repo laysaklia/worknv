@@ -15,13 +15,13 @@
         {
             "id": 3,
             "nome": "part one",
-            "artista": "chase atlantic",
+            "artista": "Chase Atlantic",
             "img": "https://cdns-images.dzcdn.net/images/cover/e3d5dc42ab722f60068fac81a4abbb56/500x500.jpg"
         },
         {
             "id": 4,
             "nome": "starboy",
-            "artista": "the weeknd",
+            "artista": "The Weeknd",
             "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
         }
     ]
