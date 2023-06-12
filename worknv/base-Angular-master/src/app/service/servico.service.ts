@@ -3,6 +3,7 @@ import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { DiscografiaComponent } from '../discografia/discografia.component';
 import { DiscografiaModel } from '../discografia/discografia.model';
+DiscografiaModel
 DiscografiaComponent
 Observable
 
