@@ -1,15 +1,21 @@
 <table>
-    <tr>
-        <td>ID</td>
-        <td>Nome</td>
-        <td>Artista</td>
-        <td>Capa</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Artista</th>
+            <th>Capa</th>
+        </tr>
+    </thead>
 
-    <tr *ngFor="let x of disco">
-        <th> {{x.id}} </th>
-        <th> {{x.nome}} </th>
-        <th> {{x.artista}} </th>
-        <img src="{{ x.img }}" alt=""/>
-    </tr>
+    <tbody>
+        <tr *ngFor="let x of disco">
+            <td>{{ x.id }}</td>
+            <td>{{ x.nome }}</td>
+            <td>{{ x.artista }}</td>
+            <td>
+                <img src="{{ x.img }}" alt="" />
+            </td>
+        </tr>
+    </tbody>
 </table>

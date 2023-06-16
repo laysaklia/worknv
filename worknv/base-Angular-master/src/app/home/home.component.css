@@ -1,17 +1,20 @@
-td{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 30px;
+table {
+    width: 80%;
+    height: auto;
+    border-collapse: collapse; /* Quebra as linhas (bordas) da tabela */
+    display: block;
+    margin: 0 auto;
+}
+
+table tr th,
+table tr td {
+    width: 25%;
+    height: auto;
     text-align: center;
-    padding-right: 100px;
 }
-th{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    text-align: justify;
-    padding-right: 40px;
-}
-img{
-    width: 60px;
-    padding-top: 20px;
-    padding-left: 10px;
+
+table tr td img {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
 }

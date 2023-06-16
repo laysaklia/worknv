@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ServicoService } from '../service/servico.service';
-ServicoService
 
 @Component({
   selector: 'app-home',
@@ -11,11 +10,11 @@ export class HomeComponent implements OnInit {
 
   disco: Array<any> = new Array()
 
-  constructor(private disco1: ServicoService){}
+  constructor(private disco1: ServicoService) { }
   ngOnInit(): void {
     this.listarDisco()
   }
-  listarDisco(){
+  listarDisco() {
     this.disco1.discoSong().subscribe(disco4 => {
       this.disco = disco4
     }, err => {
