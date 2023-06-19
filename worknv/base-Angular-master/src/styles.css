@@ -19,6 +19,7 @@ body {
     font-family: 'montserrat';
     font-size: 1rem; /* rem = 1px *  16 */
     font-weight: 400;
+    background-color: #e1e6e3;
     overflow-x: hidden;
 }
 

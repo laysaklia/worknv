@@ -2,26 +2,72 @@
     "albuns": [
         {
             "id": 1,
-            "nome": "emails i can't send",
+            "nome": "Vicious",
             "artista": "Sabrina Carpenter",
+            "album": "emails i can't send",
             "img": "https://pbs.twimg.com/media/Fq0m-iMWwAEs5X2.jpg"
         },
         {
             "id": 2,
-            "nome": "thank u, next",
+            "nome": "7 rings",
             "artista": "Ariana Grande",
+            "album": "thank u, next",
             "img": "https://upload.wikimedia.org/wikipedia/pt/6/64/Capa_de_Thank_U%2C_Next.png"
         },
         {
             "id": 3,
-            "nome": "part one",
+            "nome": "Right here",
             "artista": "Chase Atlantic",
+            "album": "part one",
             "img": "https://cdns-images.dzcdn.net/images/cover/e3d5dc42ab722f60068fac81a4abbb56/500x500.jpg"
         },
         {
             "id": 4,
-            "nome": "starboy",
+            "nome": "Die for you",
             "artista": "The Weeknd",
+            "album": "starboy",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+        },
+        {
+            "id": 5,
+            "nome": "Reflections",
+            "artista": "The neighbourhood",
+            "album": "hard to imagine",
+            "img": "https://pbs.twimg.com/media/Fq0m-iMWwAEs5X2.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "7 rings",
+            "artista": "Ariana Grande",
+            "album": "thank u, next",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/6/64/Capa_de_Thank_U%2C_Next.png"
+        },
+        {
+            "id": 7,
+            "nome": "Right here",
+            "artista": "Chase Atlantic",
+            "album": "part one",
+            "img": "https://cdns-images.dzcdn.net/images/cover/e3d5dc42ab722f60068fac81a4abbb56/500x500.jpg"
+        },
+        {
+            "id": 8,
+            "nome": "Die for you",
+            "artista": "The Weeknd",
+            "album": "starboy",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+        },
+        {
+            "id": 9,
+            "nome": "Die for you",
+            "artista": "The Weeknd",
+            "album": "starboy",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+        },
+        {
+            "id": 10,
+            "nome": "Die for you",
+            "artista": "The Weeknd",
+            "album": "starboy",
             "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
         }
     ]

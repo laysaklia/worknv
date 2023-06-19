@@ -2,16 +2,13 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { DiscografiaComponent } from './discografia/discografia.component';
-import { SobreComponent } from './sobre/sobre.component';
-import { ContatoComponent } from './contato/contato.component';
+import { LoginComponent } from './login/login.component';
 
 
 const routes: Routes = [
   { path: '', component: HomeComponent , title: 'Home'},
-  { path: 'disco', component: DiscografiaComponent , title: 'Discografia'},
-  { path: 'sobre', component: SobreComponent, title: 'Sobre nós' },
-  { path: 'contato', component: ContatoComponent, title: 'Fale conosco' }
-
+  { path: 'disco', component: LoginComponent , title: 'Login'},
+  { path: 'cadastro', component: DiscografiaComponent, title: 'Cadastre' },
 ];
 
 @NgModule({

@@ -10,9 +10,9 @@ import { FormsModule } from '@angular/forms';
 import { ServicoService } from './service/servico.service';
 import { DiscografiaComponent } from './discografia/discografia.component';
 import { RodapeComponent } from './rodape/rodape.component';
-import { SobreComponent } from './sobre/sobre.component';
-import { ContatoComponent } from './contato/contato.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { LoginComponent } from './login/login.component';
+import { PainelComponent } from './painel/painel.component';
 FormsModule
 HttpClientModule
 
@@ -22,9 +22,9 @@ HttpClientModule
    HomeComponent,
    DiscografiaComponent,
    RodapeComponent,
-   SobreComponent,
-   ContatoComponent,
-   NavbarComponent
+   NavbarComponent,
+   LoginComponent,
+   PainelComponent
   ],
   imports: [
     BrowserModule,
