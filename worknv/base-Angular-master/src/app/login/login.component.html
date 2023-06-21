@@ -1,4 +1,7 @@
 <h2>Logue-se!</h2>
-<p>Login <input type="text" [(ngModel)]="cadastro.login"></p>
-<p>Senha <input type="text" [(ngModel)]="cadastro.senha"></p>
-    <button (click)="loginEntrar()">Entrar</button>
+
+<form>
+<p>Login <input name="campo1" type="text" [(ngModel)]="cadastro.login"></p>
+<p>Senha <input name="campo2" type="text" [(ngModel)]="cadastro.senha"></p>
+    <button name="campo3" (click)="loginEntrar()">Entrar</button>
+</form>

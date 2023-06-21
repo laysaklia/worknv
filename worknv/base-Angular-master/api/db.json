@@ -4,71 +4,61 @@
             "id": 1,
             "nome": "Vicious",
             "artista": "Sabrina Carpenter",
-            "album": "emails i can't send",
             "img": "https://pbs.twimg.com/media/Fq0m-iMWwAEs5X2.jpg"
         },
         {
             "id": 2,
             "nome": "7 rings",
             "artista": "Ariana Grande",
-            "album": "thank u, next",
             "img": "https://upload.wikimedia.org/wikipedia/pt/6/64/Capa_de_Thank_U%2C_Next.png"
         },
         {
             "id": 3,
             "nome": "Right here",
             "artista": "Chase Atlantic",
-            "album": "part one",
             "img": "https://cdns-images.dzcdn.net/images/cover/e3d5dc42ab722f60068fac81a4abbb56/500x500.jpg"
         },
         {
             "id": 4,
             "nome": "Die for you",
             "artista": "The Weeknd",
-            "album": "starboy",
             "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
         },
         {
             "id": 5,
             "nome": "Reflections",
             "artista": "The neighbourhood",
-            "album": "hard to imagine",
             "img": "https://pbs.twimg.com/media/Fq0m-iMWwAEs5X2.jpg"
         },
         {
             "id": 6,
-            "nome": "7 rings",
-            "artista": "Ariana Grande",
-            "album": "thank u, next",
-            "img": "https://upload.wikimedia.org/wikipedia/pt/6/64/Capa_de_Thank_U%2C_Next.png"
+            "nome": "Cola",
+            "artista": "Lana Del Rey",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/4/47/LanaDelRey_BornToDie.jpg"
         },
         {
             "id": 7,
-            "nome": "Right here",
-            "artista": "Chase Atlantic",
-            "album": "part one",
-            "img": "https://cdns-images.dzcdn.net/images/cover/e3d5dc42ab722f60068fac81a4abbb56/500x500.jpg"
+            "nome": "Adventure of a Lifetime",
+            "artista": "Coldplay",
+            "img": "https://m.media-amazon.com/images/I/A1p7bWyAvmL._UF1000,1000_QL80_.jpg"
         },
         {
             "id": 8,
-            "nome": "Die for you",
-            "artista": "The Weeknd",
-            "album": "starboy",
-            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+            "nome": "typa girl",
+            "artista": "BLACKPINK",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/a/a1/Blackpink_-_Born_Pink.png"
         },
         {
             "id": 9,
-            "nome": "Die for you",
-            "artista": "The Weeknd",
-            "album": "starboy",
-            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+            "nome": "NDA",
+            "artista": "Billie Eilish",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/e/e8/Happier_Than_Ever_%28%C3%A1lbum%29_-_Billie_Eilish.png"
         },
         {
             "id": 10,
-            "nome": "Die for you",
-            "artista": "The Weeknd",
-            "album": "starboy",
-            "img": "https://upload.wikimedia.org/wikipedia/pt/3/39/The_Weeknd_-_Starboy.png"
+            "nome": "rx",
+            "artista": "Charlotte Lawrence",
+            "img": "https://www.vagalume.com.br/charlotte-lawrence/discografia/charlotte.jpg"
         }
     ]
 }

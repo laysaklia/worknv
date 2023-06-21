@@ -1,25 +1,28 @@
 <h1>Adicione uma música!</h1>
 
 <form>
-    <p>Nome <input type="text" name="name" [(ngModel)]="disco.nome"></p>
-    <p>Artista <input type="text" name="name" [(ngModel)]="disco.artista"></p>
-    <p>Álbum <input type="text" name="name" [(ngModel)]="disco.album"></p>
-    <p>Capa <input type="image" name="name" [(ngModel)]="disco.img"></p>
+    <p>Música: <input type="text" name="name" [(ngModel)]="disco.nome"></p>
+    <p>Artista: <input type="text" name="name" [(ngModel)]="disco.artista"></p>
 </form>
-   
+
+   <h2>Seus artistas já adicionados</h2>
+
 <table>
-    <tr>
-        <td>Nome</td>
-        <td>Artista</td>
-        <td>Album<td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Música</th>
+            <th>Artista</th>
+            <th>Capa</th>
+        </tr>
+    </thead>
 
-    <tr *ngFor="let x of disco2">
-        <th> {{x.nome}} </th>
-        <th> {{x.artista}} </th>
-        <th> {{x.album}} </th>
-        <img src="{{ x.img }}" alt=""/>
-    </tr>
-
-
+    <tbody>
+        <tr *ngFor="let x of disco2">
+            <td>{{ x.nome }}</td>
+            <td>{{ x.artista }}</td>
+            <td>
+                <img src="{{ x.img }}" alt="" />
+            </td>
+        </tr>
+    </tbody>
 </table>
